@@ -1,5 +1,5 @@
 
-# Computer Architecture Project
+# MIPS Processor
 
 ## About
 
